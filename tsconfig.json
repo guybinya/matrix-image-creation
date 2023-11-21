@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["es2017", "dom"],
+    "outDir": "dist",
+    "module": "ES2022",
+    "moduleResolution": "bundler"
+  },
+  "module": "ES2022"
+}
