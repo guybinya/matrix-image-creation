@@ -1,4 +1,4 @@
-![output_9 png](https://github.com/guybinya/matrix-image-creation/assets/23246035/df5c8877-5fb6-4ec0-876c-057163c1e5a4)# matrix-image-creation
+# matrix-image-creation
 Generates images based on a created matrix.
 
 Setup
